@@ -1,0 +1,14 @@
+body {
+    background-color: cadetblue;
+    text-align: center;
+    border: 1px solid #fff;
+}
+h1 {
+    color: cornsilk;
+}
+.friend {
+    background-color: azure;
+}
+.friend h3 {
+    color: dimgray;
+}
